@@ -140,7 +140,7 @@ sneha_journey = {
 
 <div align="center">
 
-Building AltairGO with **[Yash Patil](https://github.com/yash-dev007)** — full-stack engineer, React + Flask, the person who made the idea real.
+Building AltairGO with** — full-stack engineer, React + Flask, the person who made the idea real.
 
 [![AltairGO](https://img.shields.io/badge/AltairGO_Intelligence-View_Project-7C3AED?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/yash-dev007/AltairGo-Intelligence)
 
@@ -154,7 +154,7 @@ Building AltairGO with **[Yash Patil](https://github.com/yash-dev007)** — full
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-dagwar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sneha-dagwar-69142a338))
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sneha-dagwar)
 
